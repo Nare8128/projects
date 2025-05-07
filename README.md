@@ -1,5 +1,5 @@
 # projects
-able Of Contents
+Table Of Contents
 [Introduction of Airbnb]
 [About the Dataset]
 [Python libraries used]
